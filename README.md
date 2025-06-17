@@ -1,6 +1,6 @@
 # Hello! I'm Adila 👋
 
-I'm a passionate data enthusiast with a solid foundation in hospitality and technology. I hold a degree in Tourism Management and I'm currently in the 5th semester of my Systems Analysis and Development program.
+I'm a passionate data enthusiast with a solid foundation in hospitality and technology. I hold a degree in Tourism Management and one Systems Analysis and Development.
 
 🌿 Working in the hospitality industry, I discovered my passion for data by transforming operational reports into meaningful dashboards using **Power BI**. This experience inspired me to transition into **data analysis** — combining my organizational skills with data-driven decision making.
 
